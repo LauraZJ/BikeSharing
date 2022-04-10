@@ -1,6 +1,6 @@
 # BikeSharing
 ## Purpose
-The purpose of this module is to provide a visual analysis of NYC bike sharing service to help inform potential investors in a similar business in Des Moines, IA.  The completed analysis is provided in this Tableau Story [link here].
+The purpose of this module is to provide a visual analysis of NYC bike sharing service to help inform potential investors in a similar business in Des Moines, IA.  The completed analysis is provided in this Tableau Story [[link here](https://public.tableau.com/app/profile/laura.zacharda.jones3891/viz/BikeSharing_16495506129620/BikeSharingData?publish=yes)].
 
 ## Request
 Specific information we were asked to provide includes:
