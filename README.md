@@ -50,6 +50,7 @@ Clearly, not all bikes are used equally.  The highly used bikes will require muc
 ### Location Data
 #### High-Volume Locations
 Understanding the location of the volumes is important to help with both providing sufficient supply and knowing where to place marketing dollars.  In the images below, we see that the high-volume stations for both starting and ending are very near each other.  This corresponds with duration data.
+
 ![starting stations](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Starting_Locations.png)
 ![ending stations](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Ending_Locations.png)
 
