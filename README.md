@@ -28,17 +28,17 @@ Further analysis of the ride duration (see image below) clearly shows the higher
 ### Time of Day - Day of Week
 #### Overall data
 In order to understand utilization patterns, we looked at the number of rides by hour and by day of the week.
-![trips_hour_day]()
+![trips_hour_day](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Trips_by_hour_day.png)
 The highest utilization rates occur on weekdays during what would be identified as morning and evening commute times. 
 
 #### Gender specific
 The second evaluation of time of day / day of week utilzation includes gender.  
-![weekday_hour_gender]()
+![weekday_hour_gender](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Weekday_Hour_Gender.png)
 This view again demonstrates the dominance of male ridership and confirms the high utilization on weekdays during commute hours.  However, it also shows females follow a similar ridership pattern.  I noticed a dip in ridership on Wednesday evenings in both the male and female population.  I would speculate religious activies traditionally occuring on Wednesday evenings may impact this time-frame.
 
 #### Customer Type
 The last analysis of the weekday/hour utilization compares subscribers to customers.
-![trips by hour gender and type]()
+![trips by hour gender and type](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Trips_by_hour_gender_type.png)
 This graphic confirms that most riders are subscribers, predominantly male, and a high volume of rides take place during the week.  The higher number of rides by customers take place on the weekend, which would lead one to believe that these customers may be tourists.  I found it particularly interesting to note that the higher volume of 'unknown' gender riders are customers as opposed to subscribers.  
 
 ### Bike Utilization
