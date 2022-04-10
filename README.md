@@ -13,17 +13,17 @@ Specific information we were asked to provide includes:
 
 ### Ridership
 An initial look at the NYC data includes the number of rides, gender and customer type.
-![Ridership]()
+![Ridership](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Ridership.png)
 * This is analysis of >2M rides
 * The riders are predominantly male with a small portion of riders without declared gender and approximately 25% of riders being female.
 * Approximately 80% of all riders are subscribers.  These riders provide consistent income.
 
 ### Ride Duration
 The image below demonstrates that the average ride duration is less than an hour with most rides lasting less than 30 minutes.  
-![ride duration]()
+![ride duration](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Ride_Duration.png)
 
 Further analysis of the ride duration (see image below) clearly shows the higher utilization of the service by males.
-![ride duration gender]()
+![ride duration gender](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Ride_Duration_by_Gender.png)
 
 ### Time of Day - Day of Week
 #### Overall data
