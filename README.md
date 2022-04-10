@@ -32,28 +32,30 @@ In order to understand utilization patterns, we looked at the number of rides by
 The highest utilization rates occur on weekdays during what would be identified as morning and evening commute times. 
 
 #### Gender specific
-The second evaluation of time of day / day of week utilzation includes gender.  
+The second evaluation of time of day / day of week utilization includes gender.  
 ![weekday_hour_gender](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Weekday_Hour_Gender.png)
-This view again demonstrates the dominance of male ridership and confirms the high utilization on weekdays during commute hours.  However, it also shows females follow a similar ridership pattern.  I noticed a dip in ridership on Wednesday evenings in both the male and female population.  I would speculate religious activies traditionally occuring on Wednesday evenings may impact this time-frame.
+This view again demonstrates the dominance of male ridership and confirms the high utilization on weekdays during commute hours.  However, it also shows females follow a similar ridership pattern.  I noticed a dip in ridership on Wednesday evenings in both the male and female population.  I would speculate religious activies traditionally occuring on Wednesday evenings may impact this timeframe.
 
 #### Customer Type
 The last analysis of the weekday/hour utilization compares subscribers to customers.
 ![trips by hour gender and type](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Trips_by_hour_gender_type.png)
-This graphic confirms that most riders are subscribers, predominantly male, and a high volume of rides take place during the week.  The higher number of rides by customers take place on the weekend, which would lead one to believe that these customers may be tourists.  I found it particularly interesting to note that the higher volume of 'unknown' gender riders are customers as opposed to subscribers.  
+
+This graphic confirms that most riders are subscribers, predominantly male, and a high-volume of rides take place during the week.  The higher number of rides by customers take place on the weekend, which would lead one to believe that these customers may be tourists.  I found it particularly interesting to note that the higher volume of 'unknown' gender riders are customers as opposed to subscribers.  
 
 ### Bike Utilization
 When considering the cost of maintaining bikes in this type of service, one would need to consider bike utilzation.  This image displays the utilization of all bikes in the dataset.  
-![bike utilization]()
-Clearly, not all bikes are used equally.  The highly used bikes will require much more maintenance and replacement.  Rotation of bikes according to their lifecycle would be recommended.  I would suggest adding newer bikes to the high volume locations, shifting less utilized bikes to lower volume stations.
+![bike utilization](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Bike_Utilization.png)
+Clearly, not all bikes are used equally.  The highly used bikes will require much more maintenance and replacement.  Rotation of bikes according to their lifecycle would be recommended.  I would suggest adding newer bikes to the high volume-locations, shifting less utilized bikes to lower-volume stations.
 
 ### Location Data
-#### High Volume Locations
-Understanding the location of the volumes is important to help with both providing sufficient supply and knowing where to place marketing dollars.  In the images below, we see that the high volume stations for both starting and ending are very near each other.  This corresponds with duration data.
-![high stations]()
+#### High-Volume Locations
+Understanding the location of the volumes is important to help with both providing sufficient supply and knowing where to place marketing dollars.  In the images below, we see that the high-volume stations for both starting and ending are very near each other.  This corresponds with duration data.
+![starting stations](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Bike_Utilization.png)
+![ending stations](https://github.com/LauraZJ/BikeSharing/blob/main/Images/Ending_Locations.png)
 
 #### Location Volume by Rider Type
 I chose to compare the ride volume by location and customer type.  
-![location-rider type]()
+![location-rider type](https://github.com/LauraZJ/BikeSharing/blob/main/Images/customer_type_comparison.png)
 This analysis demonstrated that the subscriber tended to rent bikes in the business districts while the customers (likely tourists) rented in the more scenic / touristy locations.
 
 ## Recommended Further Analysis
